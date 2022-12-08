@@ -1,7 +1,6 @@
 ---
 import HeaderLink from './HeaderLink.astro'
-import { SITE_TITLE, HOMEPAGE_URL } from '../config'
-import ThemeToggle from './ThemeToggleButton'
+import { SITE_TITLE } from '../config'
 ---
 
 <header
@@ -16,11 +15,9 @@ import ThemeToggle from './ThemeToggleButton'
         </h2>
       </a>
       <div class="items-center gap-6 flex">
-        <HeaderLink href={HOMEPAGE_URL}>About</HeaderLink>
         <HeaderLink href="/tags">Tags</HeaderLink>
       </div>
       <div class="flex-1"></div>
-      <ThemeToggle client:visible />
     </nav>
   </div>
 </header>

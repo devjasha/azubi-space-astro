@@ -6,6 +6,7 @@ createdAt: 1670319140686
 updatedAt: 1670596005458
 tags:
   - S+K
+  - Pruefung
 slug: modell-nach-schulz-von-thun
 heroImage: /posts/modell-nach-schulz-von-thun_thumbnail.png
 ---

@@ -6,6 +6,7 @@ createdAt: 1670569793685
 updatedAt: 1670596687673
 tags:
   - Pruefung
+  - Medienproduktion
 slug: color-management
 heroImage: /posts/color-management_thumbnail.png
 ---

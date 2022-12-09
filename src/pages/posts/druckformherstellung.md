@@ -3,14 +3,13 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: Druckformherstellung
 createdAt: 1670508378634
-updatedAt: 1670597898379
+updatedAt: 1670600709805
 tags:
   - Pruefung
   - Medienproduktion
 slug: druckformherstellung
-heroImage: /posts/druckformherstellung_thumbnail.png
+heroImage: /posts/druckformherstellung_thumbnail.jpg
 ---
-
 
 ## Was ist Druckformherstellung?
 Druckformherstellung ist der Prozess, bei dem Druckformen hergestellt werden, die zum Drucken von Texten und Bildern verwendet werden. Druckformen können auf verschiedene Arten hergestellt werden, abhängig von der Art des Drucks, der verwendet wird.

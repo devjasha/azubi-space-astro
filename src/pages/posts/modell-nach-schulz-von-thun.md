@@ -3,14 +3,14 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: Modell nach Schulz von Thun
 createdAt: 1670319140686
-updatedAt: 1670508078768
+updatedAt: 1670566628336
 tags:
   - S+K
 slug: modell-nach-schulz-von-thun
 ---
 
 ## Vierseitiges Kommunikationsmodell
-![clipboard.png](inkdrop://file:ixQYSOj8F)
+![Thumbnail](inkdrop://file:EPdK7H5nB)
 ### Was sagt das vier Seiten Modell aus?
 * Eine Sachinformation (worüber ich informiere) - **blau**. 
 * Eine Selbstkundgabe (was ich von mir zu erkennen gebe)- **grün**.

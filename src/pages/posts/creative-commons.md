@@ -3,7 +3,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: Creative commons
 createdAt: 1671002722211
-updatedAt: 1671004207693
+updatedAt: 1671004775157
 tags:
   - Medienrecht
   - WUG
@@ -37,3 +37,7 @@ Creative Commons Lizenzen ermöglichen es Autoren, bestimmte Bedingungen festzul
   * Das Werk darf nicht verändert oder bearbeitet werden
   * Das Werk darf nur unter derselben Lizenz weitergegeben werden, unter der es vom Autor zur Verfügung gestellt wurde
   * Dies sind nur einige Beispiele für Bedingungen, die von Creative-Commons-Lizenzen festgelegt werden können. Die genauen Bedingungen hängen von der gewählten Lizenz ab und können je nach Bedarf angepasst werden.
+
+
+## CC Lizenzen Symbole
+![ccLizenzen](/posts/creative-commons_cc-lizenzen.png)

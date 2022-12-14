@@ -3,7 +3,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: Creative commons
 createdAt: 1671002722211
-updatedAt: 1671004775157
+updatedAt: 1671005249745
 tags:
   - Medienrecht
   - WUG
@@ -41,3 +41,7 @@ Creative Commons Lizenzen ermöglichen es Autoren, bestimmte Bedingungen festzul
 
 ## CC Lizenzen Symbole
 ![ccLizenzen](/posts/creative-commons_cc-lizenzen.png)
+
+## Mögliche Probleme bei der Nutzung von CC
+
+Bei der Nutzung von Creative Commons können einige Probleme oder Gefahren auftreten. Eines davon ist, dass es für manche Nutzer schwierig sein kann, die verschiedenen Lizenzen und ihre Bedingungen zu verstehen und sicherzustellen, dass sie die Lizenzen korrekt einhalten. Es besteht auch das Risiko, dass Nutzer Inhalte unter einer Creative Commons-Lizenz verwenden, ohne die Zustimmung des ursprünglichen Autors oder Eigentümers einzuholen. Dies kann zu rechtlichen Konsequenzen führen. Darüber hinaus kann die Nutzung von Inhalten unter einer Creative Commons-Lizenz dazu führen, dass der ursprüngliche Autor sein geistiges Eigentum verliert und keine Kontrolle mehr über die Verbreitung und Nutzung seiner Werke hat. Es ist wichtig, dass Nutzer von Creative Commons sorgfältig die Bedingungen jeder Lizenz prüfen und sicherstellen, dass sie alle erforderlichen Schritte unternehmen, um die Rechte des ursprünglichen Autors zu schützen und die Lizenzen korrekt einzuhalten.
